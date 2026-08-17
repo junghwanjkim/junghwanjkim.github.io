@@ -39,14 +39,12 @@ Awards and Honors
 * **Silver Medal**, National Collegiate Mathematics Competition (Non-Math Major), Korea Mathematical Society, 2011
 * **National Scholarship for Science and Engineering**, Korea Student Aid Foundation, 2009-2015
 
-Work Experience
+Industry Experience
 ======
 * [May 2022 - Aug. 2022] **Software Engineering Intern**, Google
   * Seattle, Washington
 * [May 2021 - Aug. 2021] **Software Engineering Intern**, Google
   * Remote
-* [Jan. 2016 - May 2018] **Undergraduate Research Intern**, Data Mining Laboratory, Seoul National University
-  * Seoul, Republic of Korea
 * [Jul. 2012 - May 2015] **Software Engineer**, FnGuide Inc. (Formerly, WISEfn Corp.)
   * Seoul, Republic of Korea
 
