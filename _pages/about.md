@@ -8,11 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am a Ph.D student in the Computer Science and Engineering at [University of Michigan](https://umich.edu/), advised by David Jurgens. I received my B.S. in Industrial Engineering and Mathematics (double major, Cum Laude) at [Seoul National University](https://www.snu.ac.kr/). My research interests include representation learning, authorship attribution, and machine-generated text detection.
+Hello, I am a postdoctoral scholar at [Ulsan National Institute of Science & Technology](https://www.unist.ac.kr/) (UNIST), working with Seung-Hoon Na. I received my Ph.D. in Computer Science and Engineering at [University of Michigan](https://umich.edu/), where I was fortunate to be advised by David Jurgens. I received my B.S. in Industrial Engineering and Mathematics (double major, Cum Laude) at [Seoul National University](https://www.snu.ac.kr/). My research interests include representation learning, authorship attribution, and machine-generated text detection.
+
+Academic Employment
+======
+* **Postdoctoral Scholar**, Ulsan National Institute of Science & Technology (UNIST), Sep. 2026 - Present
+  * Advisor: Seung-Hoon Na
 
 Education
 ======
-* **Ph.D** in Computer Science and Engineering, University of Michigan, 2018 - Present
+* **Ph.D** in Computer Science and Engineering, University of Michigan, 2018 - 2026
   * Advisor: David Jurgens
 * **B.S.** in Industrial Engineering and Mathematics (double major), Cum Laude, Seoul National University, 2017
 
